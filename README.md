@@ -10,3 +10,5 @@ The aim of this project is to identify projects that are exceptionally exciting 
 While all projects on the site fulfill some kind of need, certain projects have a quality above and beyond what is typical. 
 By identifying and recommending such projects early, they will improve funding outcomes, better the user experience, 
 and help more students receive the materials they need to learn.
+
+## Decription of Data
